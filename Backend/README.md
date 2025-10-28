@@ -29,3 +29,4 @@ The request body should be in JSON format and include the following fields:
   - `email` (string): User's email address (must be a valid email).
   - `password` (string): User's password (minimum 6 characters).
 - `token` (String): JWT Token
+
