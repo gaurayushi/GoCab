@@ -63,6 +63,10 @@ The request body should be in JSON format and include the following fields:
   - `password` (string): User's password (minimum 6 characters).
 - `token` (String): JWT Token
 
+
+<img width="1450" height="870" alt="Screenshot from 2025-10-28 23-06-04" src="https://github.com/user-attachments/assets/dc7d1763-8797-4373-9e34-44582f64bc31" />
+
+
 ## `/users/profile` Endpoint
 
 ### Description
