@@ -32,6 +32,11 @@ The request body should be in JSON format and include the following fields:
 
 
 
+
+<img width="1218" height="842" alt="Screenshot from 2025-10-30 21-51-46" src="https://github.com/user-attachments/assets/0454d211-877c-47ff-9e9f-0fccea9eb2f5" />
+
+
+
 ## `/users/login` Endpoint
 
 ### Description
